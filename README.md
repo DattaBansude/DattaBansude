@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Java,Css,Sql**
 
-- 📫 How to reach me **dattatraybansude91@gmail.com**
+- 📫 How to reach me  <a href="https://www.linkedin.com/in/dattatray-bansude/">[here...]</a>
 
 - 📄 Ready to work-->Check my Resume  <a href="https://drive.google.com/file/d/1Muz9Ughtj85jwogBnjmqgOQAFNCz1CYe/view?usp=sharing">[here ]</a>
 
