@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **dattatraybansude91@gmail.com**
 
-- 📄 Ready to work-->Check my Resume [here https://drive.google.com/file/d/1Muz9Ughtj85jwogBnjmqgOQAFNCz1CYe/view?usp=sharing](here https://drive.google.com/file/d/1Muz9Ughtj85jwogBnjmqgOQAFNCz1CYe/view?usp=sharing)
+- 📄 Ready to work-->Check my Resume  <a href="https://drive.google.com/file/d/1Muz9Ughtj85jwogBnjmqgOQAFNCz1CYe/view?usp=sharing">[here ]</a>
 
 - ⚡ Fun fact **I am funny**
 
