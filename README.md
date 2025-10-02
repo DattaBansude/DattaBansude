@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning **React Js**  
 - 💬 Ask me about **Java,Css,Sql**  
 - 📫 How to reach me  <a href="https://www.linkedin.com/in/dattatray-bansude/">[here...]</a>  
-- 📄 Ready to work --> Check my Resume  <a href="https://drive.google.com/file/d/1Muz9Ughtj85jwogBnjmqgOQAFNCz1CYe/view?usp=sharing">[here ]</a>  
+- 📄 Ready to work --> Check my Resume  <a href="https://drive.google.com/file/d/1j8YjgptlsbQ4sHv8E9lewswOHYeEl-pr/view?usp=sharing">[here ]</a>  
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">🌐Connect with me:</h3>
@@ -118,7 +118,7 @@
 
 ---
 ### 📊 GitHub Stats
-<p>
+<!-- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dattabansude&show_icons=true&locale=en&layout=compact" alt="dattabansude" />
 </p>
 
@@ -128,8 +128,20 @@
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dattabansude&" alt="dattabansude" />
-</p>
+</p> -->
 
+<img src="https://github-readme-stats.vercel.app/api?username=dattabansude&show_icons=true&theme=algolia" alt="stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dattabansude&theme=algolia" alt="streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dattabansude&layout=compact&theme=algolia" alt="langs" />
+
+
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dattabansude&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+</p>
 
 ### 🌗 GitHub Profile Themes
 <p>
